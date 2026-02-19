@@ -1,0 +1,1 @@
+-- SQL placeholder; user should replace with full migrations provided.
